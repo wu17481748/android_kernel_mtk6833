@@ -1,5 +1,5 @@
 # android_kernel_OPPO_mtk6833
-OPPO通用内核
+OPPO/Realme通用内核
 
 *适用:*
 
